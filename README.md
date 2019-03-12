@@ -1,5 +1,5 @@
 # HW_3_CHEME_7770_Thomas_Roberts
-Homework for Chem E 7770 Homework number 3 due 3/12/19 at 11:59 pm
+Homework for Chem E 7770 Homework number 3 due 3/12/19 at 11:59 pm.  Assistance help and collaboration from: Dr. Varner, Ahbi, Javon, Samavi, Miya,
 
 Files Included: 
  -------------------------------------------------------------------------------------------------------------------------  

@@ -24,7 +24,8 @@ Optimal_Urea_Production_Flux = objective_value;
 
 #Print the important results for part a,b,c
 println("Part A:")
-display(stoichiometric_matrix);
+display("text/plain", stoichiometric_matrix);
+
 println("");
 println("Part B:   ", Check_balance_Test);
 println("");
